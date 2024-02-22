@@ -8,4 +8,4 @@
 - update7
 - update8 - aws ec2
 - update9 : aws ec2 & local jenkins mapping
-- update10 : new padding
+- update10 : jenkins pending
